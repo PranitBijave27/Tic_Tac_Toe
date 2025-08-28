@@ -8,7 +8,7 @@ let msg=document.querySelector("#msg");
 let msg_container=document.querySelector(".msg-container");
 let audoBtn1=document.querySelector("#music1");
 let winPopUp=document.querySelector("#music2");
-let turnX=true; //player-x player-y;
+let turnX=true; //player-x player-y; 
 
 
 
